@@ -1,0 +1,202 @@
+[
+	{
+		"id": 1,
+		"name": "Pesto groen",
+		"price": 0.13068
+	},
+	{
+		"id": 2,
+		"name": "Witte bonen in tom.s",
+		"price": 0.13248
+	},
+	{
+		"id": 3,
+		"name": "Italiaanse kruiden",
+		"price": 0.05436
+	},
+	{
+		"id": 4,
+		"name": "Farfalle",
+		"price": 0.10164
+	},
+	{
+		"id": 5,
+		"name": "Penne rigate",
+		"price": 0.10164
+	},
+	{
+		"id": 6,
+		"name": "Gumbo melange",
+		"price": 0.41556
+	},
+	{
+		"id": 7,
+		"name": "Gnocchi (anco)",
+		"price": 0.05616
+	},
+	{
+		"id": 8,
+		"name": "Tortellini formaggi",
+		"price": 0.3324
+	},
+	{
+		"id": 9,
+		"name": "Tomaten saus/soep na",
+		"price": 0.17988
+	},
+	{
+		"id": 10,
+		"name": "Kappertjes non parei (1x720gram)",
+		"price": 0.06396
+	},
+	{
+		"id": 11,
+		"name": "Knoflookpulp",
+		"price": 0.04356
+	},
+	{
+		"id": 12,
+		"name": "Beef stock Garde d'Or",
+		"price": 0.1482
+	},
+	{
+		"id": 13,
+		"name": "Roasted garlic&peppe",
+		"price": 0.07968
+	},
+	{
+		"id": 14,
+		"name": "Rock salt in molen",
+		"price": 0.06144
+	},
+	{
+		"id": 15,
+		"name": "Basterdsuiker wit",
+		"price": 0.10368
+	},
+	{
+		"id": 16,
+		"name": "Basterdsuiker donker (12x600gram)",
+		"price": 0.1074
+	},
+	{
+		"id": 17,
+		"name": "Cornflakes",
+		"price": 0.03252
+	},
+	{
+		"id": 18,
+		"name": "Aardappelzetmeel (honig)",
+		"price": 0.05376
+	},
+	{
+		"id": 19,
+		"name": "Bloem patent",
+		"price": 0.13212
+	},
+	{
+		"id": 20,
+		"name": "Vleesjus glutenvrij (1x1430gram)",
+		"price": 0.29688
+	},
+	{
+		"id": 21,
+		"name": "Steranijs strooibus",
+		"price": 0.16956
+	},
+	{
+		"id": 22,
+		"name": "Pizzasaus",
+		"price": 0.20232
+	},
+	{
+		"id": 23,
+		"name": "Spaghetti fijn",
+		"price": 0.27984
+	},
+	{
+		"id": 24,
+		"name": "Lasagne naturel",
+		"price": 0.2496
+	},
+	{
+		"id": 25,
+		"name": "Risotto",
+		"price": 0.19092
+	},
+	{
+		"id": 26,
+		"name": "Macaroni schelp",
+		"price": 0.10488
+	},
+	{
+		"id": 27,
+		"name": "Fusilli naturel kb",
+		"price": 0.10464
+	},
+	{
+		"id": 28,
+		"name": "Tagliatelle ei",
+		"price": 0.18348
+	},
+	{
+		"id": 29,
+		"name": "Tagliatelle groen pr",
+		"price": 0.18348
+	},
+	{
+		"id": 30,
+		"name": "Glac.spek/ui fresco",
+		"price": 0.135
+	},
+	{
+		"id": 31,
+		"name": "Macaroni volkoren",
+		"price": 0.14064
+	},
+	{
+		"id": 32,
+		"name": "Tomaten coulis (1x3000gram)",
+		"price": 0.15792
+	},
+	{
+		"id": 33,
+		"name": "Kippenbouillon poede (6x1000gram)",
+		"price": 1.6296
+	},
+	{
+		"id": 34,
+		"name": "Kippenbouillon poede (1x1000 gram)",
+		"price": 0.27084
+	},
+	{
+		"id": 35,
+		"name": "Demi-glace basissaus",
+		"price": 0.19032
+	},
+	{
+		"id": 36,
+		"name": "Primerba ui/spek",
+		"price": 0.18636
+	},
+	{
+		"id": 37,
+		"name": "Groentebouillon gast (6x1000gram)",
+		"price": 1.11336
+	},
+	{
+		"id": 38,
+		"name": "Groentebouillon gast (1x1000 gram)",
+		"price": 0.18504
+	},
+	{
+		"id": 39,
+		"name": "Jachtsaus (knorr)",
+		"price": 0.22104
+	},
+	{
+		"id": 40,
+		"name": "Espagnolesaus na",
+		"price": 0.11844
+	}
+]
